@@ -1,0 +1,19 @@
+.chatDiv{
+    overflow-y: auto;
+    background: dodgerblue;
+    width: 400px;
+    height: 300px;
+    border: 1px solid black;
+    margin: auto;
+    box-sizing: border-box;
+}
+
+.yourMessage {
+    background: lightblue;
+    text-align: left;
+}
+
+.otherMessage{
+    background: lightgreen;
+    text-align: right;
+}
